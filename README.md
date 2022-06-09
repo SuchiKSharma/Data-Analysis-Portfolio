@@ -1,6 +1,6 @@
 # Data-Analysis-Portfolio
 
-This Repository contain projects for Data Science projects completed by me.
+This Repository contain projects for Data Analysis completed by me.
 
 Contents
 --------------------------------------------------------------------------------
