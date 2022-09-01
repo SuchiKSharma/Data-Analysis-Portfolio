@@ -10,6 +10,7 @@ Contents
       - [Covid-19 Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Covid%2019.ipynb)
       - [Haberman's Survival Exploratory Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Haberman's%20Survival%20Exploratory%20Data%20Analysis.ipynb)
       - [Heart Diseases Exploratory Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Heart%20Disease%20Analysis.ipynb)
+      - [Virat Kohli Performance Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/%F0%9F%8F%8FVirat%20Kohli%20Performance%20Analysis%F0%9F%8F%8F.ipynb)
 2. MY SQL - Projects
       - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL)
 3. Machine Learning - Projects
