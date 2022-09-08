@@ -13,6 +13,7 @@ Contents
       - [Virat Kohli Performance Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/%F0%9F%8F%8FVirat%20Kohli%20Performance%20Analysis%F0%9F%8F%8F.ipynb)
       - [IPL Match Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/IPL%20Data%20Analysis.ipynb)
       - [Wine Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Wine%20Review%20Data%20Analysis.ipynb)
+      - [Olympic Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Olympic%20Data%20Analysis.ipynb)
 2. MY SQL - Projects
       - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL)
 3. Machine Learning - Projects
