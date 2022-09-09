@@ -17,7 +17,7 @@ Contents
       - [Bank Telemarketing Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Bank%20Telemarketing%20Data%20Analysis.ipynb)
 2. MY SQL - Projects
       - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL)
-3. Machine Learning - Projects
+3. [Machine Learning - Projects](https://github.com/SuchiKSharma/Machine-Learning-Projects)
     - Linear Regression
       - [Fish Weight Prediction](https://github.com/SuchiKSharma/Machine-Learning-Projects/blob/Machine-Learning-Projects/Fish%20Weight%20Multiple%20Linear%20Regression.ipynb)
 
