@@ -15,6 +15,7 @@ Contents
       - [Wine Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Wine%20Review%20Data%20Analysis.ipynb)
       - [Olympic Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Olympic%20Data%20Analysis.ipynb)
       - [Bank Telemarketing Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Bank%20Telemarketing%20Data%20Analysis.ipynb)
+      - [911 Calls Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/911%20Call%20Data%20Analysis.ipynb)
 2. MY SQL - Projects
       - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL)
 3. [Machine Learning - Projects](https://github.com/SuchiKSharma/Machine-Learning-Projects)
