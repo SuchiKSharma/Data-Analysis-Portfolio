@@ -22,6 +22,7 @@ Contents
     - Linear Regression
       - [Fish Weight Prediction](https://github.com/SuchiKSharma/Machine-Learning-Projects/blob/Machine-Learning-Projects/Fish%20Weight%20Multiple%20Linear%20Regression.ipynb)
       - [Simple Linear Regression - Advertising_DataSet](https://github.com/SuchiKSharma/Machine-Learning-Projects/blob/Machine-Learning-Projects/Advertising_DataSet_Simple%20Linear%20Regression.ipynb)
+      - [Multiple Linear Regression - Diabetes](https://github.com/SuchiKSharma/Machine-Learning-Projects/blob/Machine-Learning-Projects/Diabetes%20Data%20Analysis.ipynb)
       
 4. [Power BI Projects](https://github.com/SuchiKSharma/Power-BI-Sales-Dash-Board/tree/Machine-Learning-Projects)
 
