@@ -17,7 +17,7 @@ Contents
       - [Bank Telemarketing Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/Bank%20Telemarketing%20Data%20Analysis.ipynb)
       - [911 Calls Data Analysis](https://github.com/SuchiKSharma/Data-Analysis-Portfolio/blob/Machine-Learning-Projects/911%20Call%20Data%20Analysis.ipynb)
 2. [MY SQL - Projects](https://github.com/SuchiKSharma/MySQL)
-      - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL)
+      - [IMDB Movies Case Study](https://github.com/SuchiKSharma/MySQL/blob/Machine-Learning-Projects/IMDB%20Case%20Study.sql)
       - [SAKILA Case Study](https://github.com/SuchiKSharma/MySQL/blob/Machine-Learning-Projects/Sakila_Queries_Solution.sql)
 3. [Machine Learning - Projects](https://github.com/SuchiKSharma/Machine-Learning-Projects)
     - Linear Regression
